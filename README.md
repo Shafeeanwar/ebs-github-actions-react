@@ -67,7 +67,7 @@ Change your application_name, environment_name, existing_bucket_name, region and
 
 ## References
 
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437124#questions/16131052
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/32547922#questions/17673926
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/20676694#questions
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/27975358
+1. https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437124#questions/16131052
+2. https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/32547922#questions/17673926
+3. https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/20676694#questions
+4. https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/27975358
